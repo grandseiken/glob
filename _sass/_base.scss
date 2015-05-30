@@ -15,11 +15,11 @@ dl, dd, ol, ul, figure {
  */
 body {
     font-family: $base-font-family;
-    font-size: $base-font-size;
+    font-size: 14px;
     line-height: $base-line-height;
     font-weight: 300;
-    color: $text-color;
-    background-color: $background-color;
+    color: #839496;
+    background-color: #002a35;
     -webkit-text-size-adjust: 100%;
 }
 
@@ -54,10 +54,6 @@ figure > img {
     display: block;
 }
 
-figcaption {
-    font-size: $base-font-size;
-}
-
 
 
 /**
@@ -83,23 +79,22 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
+h1, h2, h3 {
+    color: #cb4b16;
+}
+
 
 
 /**
  * Links
  */
-a {
-    color: $brand-color;
+a, a:visited, a:active {
+    color: #2aa198;
     text-decoration: none;
+}
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
+a:hover {
+    color: #cb4b16;
 }
 
 
@@ -108,8 +103,8 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border-top: 1px solid #073642;
+    border-bottom: 1px solid #073642;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
@@ -128,9 +123,7 @@ blockquote {
 pre,
 code {
     font-size: 12px;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    background-color: #eef;
+    background-color: #073642;
 }
 
 code {
@@ -181,24 +174,5 @@ pre {
         content: "";
         display: table;
         clear: both;
-    }
-}
-
-
-
-/**
- * Icons
- */
-.icon {
-
-    > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
     }
 }
