@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "If you have a blog you are to be treated with great suspicion"
+title: If you have a blog you are to be treated with great suspicion
 ---
 
 > "but don't quote me on that"
