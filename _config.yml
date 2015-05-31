@@ -7,7 +7,7 @@ description: >
 baseurl: ""
 url: "http://stu.scot"
 timezone: "Europe/London"
-permalink: pretty
+permalink: /glob/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
