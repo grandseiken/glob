@@ -11,12 +11,11 @@ Here are some reasons you should care what I have to say:
 Sometimes I make [indie games](http://stu.scot/wiispace). Other times I make
 [electronic music](http://grandfunkdynasty.com).
 
-Here are links to my accounts on
+Here are my accounts on
 
 * [Github](http://github.com/grandseiken)
 * [Twitter](http://twitter.com/grandseiken)
 * [LinkedIn](https://uk.linkedin.com/pub/stu-taylor/63/676/692)
-* [Google+](http://google.com/+StuDotScot)
 * and [Yo](https://www.justyo.co/FATFUCKINGSHITHEAD)
 
 all of which I <del>take extremely seriously</del> only use ironically &#x25A0;
